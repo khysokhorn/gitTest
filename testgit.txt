@@ -1,1 +1,7 @@
 hello this is the test of git for the first time, add new text 
+
+
+--chmod -R 755 .
+
+
+-- add title from dev branch 
