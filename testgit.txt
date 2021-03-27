@@ -1,1 +1,1 @@
-hello this is the test of git for the first time 
+hello this is the test of git for the first time, add new text 
